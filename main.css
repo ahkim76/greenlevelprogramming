@@ -310,7 +310,7 @@ strong {
 }
 
 .about-box {
-  max-width: 60rem;
+  width: 45rem;
   height: 35rem;
 }
 .container {
